@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.main-container {
+    text-align: center;
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+    background-image: url("https://img.freepik.com/free-vector/sparkling-background_79603-38.jpg?w=996&t=st=1682250706~exp=1682251306~hmac=dff740b3f859cdbbcc2fbfce0ba6e4798ed745933b483904e7ccfb9829d8c167");
+}
+
+.main-heading {
+    font-size: 45px;
+    color: lightgreen;
+    font-family: Trebuchet MS;
+    margin-top: 190px;
+}
+
+.second-heading {
+    font-family: Trebuchet MS;
+    color: #ffffff;
+
+
+}
+
+.button-watch-video {
+    height: 50px;
+    width: 140px;
+    color: #ffffff;
+    background-color: red;
+    font-family: "Verdana";
+    border-radius: 30px;
+    font-weight: 500;
+    margin-top: 20px;
+}
+
+.button-purchase-now {
+    height: 50px;
+    width: 150px;
+    color: #ffffff;
+    background-color: grey;
+    font-family: "Verdana";
+    border-radius: 30px;
+    font-weight: 500;
+    margin-left: 5px;
+}
+
+.fb-logo {
+    color: #ffffff;
+    font-size: 20px;
+}
+
+.twitter-logo {
+    color: #ffffff;
+    font-size: 21px;
+}
+
+.button-upgrade-now {
+    background-color: red;
+    height: 40px;
+    width: 150px;
+    font-family: "Verdana";
+
+}
+
+.ravi-ui {
+    font-family: "Segoe UI";
+    color: yellow;
+    margin-right: 600px;
+}
